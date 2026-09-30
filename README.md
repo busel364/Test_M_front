@@ -36,12 +36,24 @@ npm run dev
 
 Приложение откроется по адресу [http://localhost:5173](http://localhost:5173).
 
+### Демо
+
+https://busel364.github.io/Test_M_front/
+
 ### Сборка
 
 ```bash
 npm run build
 npm run preview
 ```
+
+### Деплой на GitHub Pages
+
+```bash
+npm run deploy
+```
+
+В GitHub: **Settings → Pages → Branch** = `gh-pages` / folder `/` (Root).
 
 ## Как пользоваться
 
